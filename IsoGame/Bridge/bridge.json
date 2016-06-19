@@ -1,0 +1,4 @@
+{
+	"output": "../WebApp/scripts/BridgeOutput", 
+	"combineScripts": "true"
+}
